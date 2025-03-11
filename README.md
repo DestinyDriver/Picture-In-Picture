@@ -8,9 +8,9 @@ A simple web application using **HTML, CSS, and JavaScript** that allows users t
 - 📌 **Picture-in-Picture Mode:** View the captured screen in a resizable **floating window**.
 - 🎓 **Real-life Benefits:** Students can watch tutorial videos or read text **while working** on another screen simultaneously.
 
-## 🎬 Demo
+## 🎬 Preview Video
 
-[🔗Demo Video](https://drive.google.com/file/d/1vhANJE_Z9IHgzGPE9uUY_TOaNLasEcpl/view?usp=sharing)
+[🔗Click to see Video](https://drive.google.com/file/d/1vhANJE_Z9IHgzGPE9uUY_TOaNLasEcpl/view?usp=sharing)
 
 ## 📸 Preview
 
